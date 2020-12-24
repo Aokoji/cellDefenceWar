@@ -1,0 +1,12 @@
+webname = 'À²À²À²'
+address = 'www.baidu.com'
+
+pi = 3.14125
+
+function ShowGame()
+    print('hello  world')
+end
+
+function Add(a,b)
+    return a + b
+end
